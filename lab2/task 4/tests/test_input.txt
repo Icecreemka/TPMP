@@ -1,0 +1,10 @@
+﻿Smith John Edward M American 180 75 1980 03 15 +123456789 USA NewYork NY Manhattan WallStreet 10 1 1001 18 A+
+Doe Jane Marie F British 165 60 1991 06 21 +234567890 UK London LN Westminster AbbeyRoad 11 2 1002 12 B-
+Lee Kevin James M Chinese 172 68 1985 08 10 +345678901 China Beijing BJ Haidian Zhongguancun 20 3 1003 18 AB+
+Garcia Maria Elena F Spanish 158 55 1979 12 09 +456789012 Spain Madrid MD Centro GranVia 22 4 1004 5 O-
+Ivanov Alexei Petrovich M Russian 182 85 1990 10 01 +567890123 Russia Moscow MS Central Tverskaya 3 5 1005 18 B+
+Tanaka Yuki Haruto M Japanese 170 70 1988 11 11 +678901234 Japan Tokyo TK Shibuya Harajuku 15 6 1006 7 A-
+Khan Ayesha Noor F Pakistani 160 50 1995 01 30 +789012345 Pakistan Lahore LH Gulberg MMAlamRoad 8 7 1007 11 AB-
+Brown Charlie Isaac M American 175 72 1982 04 04 +890123456 USA Chicago IL Loop MichiganAve 30 8 1008 9 O+
+Nguyen Linh Thu F Vietnamese 162 58 1987 09 25 +901234567 Vietnam Hanoi HA BaDinh DoiCan 6 9 1009 18 A+
+Muller Anna Sophie F German 168 65 1983 05 18 +012345678 Germany Berlin BE Mitte UnterdenLinden 12 10 1010 3 B+

@@ -1,0 +1,10 @@
+﻿Adams Emily Rose F Canadian 165 60 1992 03 12 +12015550101 Canada Toronto ON York BayStreet 5 1 2001 18 B+
+Clark Daniel James M American 180 78 1985 07 08 +12015550102 USA Boston MA Suffolk BeaconStreet 12 2 2002 10 A-
+Zhang Wei Ling F Chinese 160 55 1990 11 25 +86135550103 China Shanghai SH Pudong CenturyAve 9 3 2003 18 AB+
+Patel Ravi Kumar M Indian 170 65 1987 02 17 +91982050104 India Mumbai MH Andheri LinkRoad 20 4 2004 3 O+
+Sato Haruki Ren M Japanese 172 70 1989 06 30 +8135550105 Japan Osaka OS Chuo Dotonbori 7 5 2005 18 A+
+Garcia Lucia Elena F Mexican 158 58 1993 10 05 +5255550106 Mexico MexicoCity DF Centro Reforma 4 6 2006 12 B-
+Kowalski Jan Marek M Polish 175 72 1984 04 14 +48225550107 Poland Warsaw MZ Srodmiescie Marszalkowska 15 7 2007 8 O-
+Nguyen An Duy M Vietnamese 168 68 1991 08 28 +84985550108 Vietnam HoChiMinh HCM District1 LeLai 11 8 2008 18 AB-
+O'Neill Fiona Claire F Irish 162 57 1995 12 22 +35315550109 Ireland Dublin DU TempleBar FleetStreet 6 9 2009 5 A+
+Schmidt Lukas Paul M German 185 80 1982 01 09 +49175550110 Germany Hamburg HH Mitte Mönckebergstraße 18 10 2010 2 B+

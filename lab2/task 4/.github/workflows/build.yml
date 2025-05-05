@@ -1,0 +1,31 @@
+﻿name: C Project Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Клонировать репозиторий
+      uses: actions/checkout@v3
+
+    - name: 🛠️ Установить GCC
+      run: sudo apt-get install build-essential
+
+    - name: 🔧 Сборка проекта
+      run: make
+
+    - name: ✅ Запустить программу
+      run: ./patient_app
+
+    - name: 📦 Проверить наличие результата
+      run: cat output/result.txt
+
+    - name: 🧪 Контрольный расчет
+      run: ./patient_app tests/test_input.txt
